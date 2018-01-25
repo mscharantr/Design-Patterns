@@ -1,8 +1,7 @@
 package behavioral.chainofresponsibility;
 
 public class ChainPatternDemo {
-      //je4 b 44h4b h4h4 b4b4
-    //kjvfv hf h
+
     public static void main(String[] args) {
         TeamLeader teamLeader = new TeamLeader();
         ProjectLeader projectLeader = new ProjectLeader();
